@@ -1,0 +1,18 @@
+@import '../../../styles/modules/variables';
+
+.main-container {
+    border: 3px dotted $light-gray;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .wrap-container {
+        text-align: center;
+        .img {
+            width: 25%;
+            border-radius: 10px;
+        }
+    }   
+}

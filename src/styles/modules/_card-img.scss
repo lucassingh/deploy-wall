@@ -1,0 +1,49 @@
+@import '../modules/variables';
+
+.main-container {
+
+    .cont-imgcard {
+        border: 3px dotted $light-gray;
+        border-radius: 10px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+
+        .card-img {
+            border: 1px solid $light-gray;
+            padding: 10px;
+            border-radius: 7px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 12px;
+
+            .text-container {
+                width: 170px;
+            }
+        }
+    }
+
+    .text-center {
+        border: 3px dotted $light-gray;
+        border-radius: 10px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        span {
+            font-size: 20px;
+        }
+    }    
+}
+
+@media (min-width: 478px) {
+    .main-container {
+        .cont-imgcard {    
+            .card-img {    
+                .text-container {
+                    width: 300px;
+                }
+            }
+        }
+    }
+}

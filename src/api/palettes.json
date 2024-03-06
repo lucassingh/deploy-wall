@@ -1,0 +1,410 @@
+{
+    "paletteSWT200": [
+        {
+            "id": 1,
+            "nombre": "SWT200",
+            "codigo": "#8b0000"
+        },
+        {
+            "id": 2,
+            "nombre": "SWT201",
+            "codigo": "#a52a2a"
+        },
+        {
+            "id": 3,
+            "nombre": "SWT202",
+            "codigo": "#b22222"
+        },
+        {
+            "id": 4,
+            "nombre": "SWT203",
+            "codigo": "#cd5c5c"
+        },
+        {
+            "id": 5,
+            "nombre": "SWT204",
+            "codigo": "#ff6347"
+        },
+        {
+            "id": 6,
+            "nombre": "SWT205",
+            "codigo": "#ff4500"
+        },
+        {
+            "id": 7,
+            "nombre": "SWT206",
+            "codigo": "#ff7f50"
+        },
+        {
+            "id": 8,
+            "nombre": "SWT207",
+            "codigo": "#ff8c00"
+        },
+        {
+            "id": 9,
+            "nombre": "SWT208",
+            "codigo": "#ffa500"
+        },
+        {
+            "id": 10,
+            "nombre": "SWT209",
+            "codigo": "#ffd700"
+        },
+        {
+            "id": 11,
+            "nombre": "SWT210",
+            "codigo": "#ffff00"
+        },
+        {
+            "id": 12,
+            "nombre": "SWT211",
+            "codigo": "#f0e68c"
+        },
+        {
+            "id": 13,
+            "nombre": "SWT212",
+            "codigo": "#bdb76b"
+        },
+        {
+            "id": 14,
+            "nombre": "SWT213",
+            "codigo": "#daa520"
+        },
+        {
+            "id": 15,
+            "nombre": "SWT214",
+            "codigo": "#d2b48c"
+        },
+        {
+            "id": 16,
+            "nombre": "SWT215",
+            "codigo": "#f5deb3"
+        },
+        {
+            "id": 17,
+            "nombre": "SWT216",
+            "codigo": "#fafad2"
+        },
+        {
+            "id": 18,
+            "nombre": "SWT217",
+            "codigo": "#fffacd"
+        },
+        {
+            "id": 19,
+            "nombre": "SWT218",
+            "codigo": "#fffafa"
+        },
+        {
+            "id": 20,
+            "nombre": "SWT219",
+            "codigo": "#fffff0"
+        }
+    ],
+    "paletteSWT300": [
+        {
+            "id": 1,
+            "nombre": "SWT300",
+            "codigo": "#808080"
+        },
+        {
+            "id": 2,
+            "nombre": "SWT301",
+            "codigo": "#a9a9a9"
+        },
+        {
+            "id": 3,
+            "nombre": "SWT302",
+            "codigo": "#d3d3d3"
+        },
+        {
+            "id": 4,
+            "nombre": "SWT303",
+            "codigo": "#c0c0c0"
+        },
+        {
+            "id": 5,
+            "nombre": "SWT304",
+            "codigo": "#708090"
+        },
+        {
+            "id": 6,
+            "nombre": "SWT305",
+            "codigo": "#778899"
+        },
+        {
+            "id": 7,
+            "nombre": "SWT306",
+            "codigo": "#b0c4de"
+        },
+        {
+            "id": 8,
+            "nombre": "SWT307",
+            "codigo": "#4682b4"
+        },
+        {
+            "id": 9,
+            "nombre": "SWT308",
+            "codigo": "#4169e1"
+        },
+        {
+            "id": 10,
+            "nombre": "SWT309",
+            "codigo": "#0000ff"
+        },
+        {
+            "id": 11,
+            "nombre": "SWT310",
+            "codigo": "#7b68ee"
+        },
+        {
+            "id": 12,
+            "nombre": "SWT311",
+            "codigo": "#6a5acd"
+        },
+        {
+            "id": 13,
+            "nombre": "SWT312",
+            "codigo": "#483d8b"
+        },
+        {
+            "id": 14,
+            "nombre": "SWT313",
+            "codigo": "#9370db"
+        },
+        {
+            "id": 15,
+            "nombre": "SWT314",
+            "codigo": "#8a2be2"
+        },
+        {
+            "id": 16,
+            "nombre": "SWT315",
+            "codigo": "#9932cc"
+        },
+        {
+            "id": 17,
+            "nombre": "SWT316",
+            "codigo": "#8b008b"
+        },
+        {
+            "id": 18,
+            "nombre": "SWT317",
+            "codigo": "#800080"
+        },
+        {
+            "id": 19,
+            "nombre": "SWT318",
+            "codigo": "#4b0082"
+        },
+        {
+            "id": 20,
+            "nombre": "SWT319",
+            "codigo": "#9400d3"
+        }
+    ],
+    "paletteSWT400": [
+        {
+            "id": 1,
+            "nombre": "SWT400",
+            "codigo": "#001f3f"
+        },
+        {
+            "id": 2,
+            "nombre": "SWT401",
+            "codigo": "#001f3f"
+        },
+        {
+            "id": 3,
+            "nombre": "SWT402",
+            "codigo": "#001f3f"
+        },
+        {
+            "id": 4,
+            "nombre": "SWT403",
+            "codigo": "#4b0082"
+        },
+        {
+            "id": 5,
+            "nombre": "SWT404",
+            "codigo": "#4169e1"
+        },
+        {
+            "id": 6,
+            "nombre": "SWT405",
+            "codigo": "#87ceeb"
+        },
+        {
+            "id": 7,
+            "nombre": "SWT406",
+            "codigo": "#add8e6"
+        },
+        {
+            "id": 8,
+            "nombre": "SWT407",
+            "codigo": "#40e0d0"
+        },
+        {
+            "id": 9,
+            "nombre": "SWT408",
+            "codigo": "#00ffff"
+        },
+        {
+            "id": 10,
+            "nombre": "SWT409",
+            "codigo": "#00ffff"
+        },
+        {
+            "id": 11,
+            "nombre": "SWT410",
+            "codigo": "#00ffff"
+        },
+        {
+            "id": 12,
+            "nombre": "SWT411",
+            "codigo": "#00ced1"
+        },
+        {
+            "id": 13,
+            "nombre": "SWT412",
+            "codigo": "#00ced1"
+        },
+        {
+            "id": 14,
+            "nombre": "SWT413",
+            "codigo": "#afeeee"
+        },
+        {
+            "id": 15,
+            "nombre": "SWT414",
+            "codigo": "#f0f8ff"
+        },
+        {
+            "id": 16,
+            "nombre": "SWT415",
+            "codigo": "#fffff0"
+        },
+        {
+            "id": 17,
+            "nombre": "SWT416",
+            "codigo": "#fffdd0"
+        },
+        {
+            "id": 18,
+            "nombre": "SWT417",
+            "codigo": "#f5f5dc"
+        },
+        {
+            "id": 19,
+            "nombre": "SWT418",
+            "codigo": "#f3e5ab"
+        },
+        {
+            "id": 20,
+            "nombre": "SWT419",
+            "codigo": "#fffacd"
+        }
+    ],
+    "paletteSWT500": [
+        {
+            "id": 1,
+            "nombre": "SWT500",
+            "codigo": "#eedd82"
+        },
+        {
+            "id": 2,
+            "nombre": "SWT501",
+            "codigo": "#e0e699"
+        },
+        {
+            "id": 3,
+            "nombre": "SWT502",
+            "codigo": "#d2d479"
+        },
+        {
+            "id": 4,
+            "nombre": "SWT503",
+            "codigo": "#bdb76b"
+        },
+        {
+            "id": 5,
+            "nombre": "SWT504",
+            "codigo": "#c5c291"
+        },
+        {
+            "id": 6,
+            "nombre": "SWT505",
+            "codigo": "#b3b36d"
+        },
+        {
+            "id": 7,
+            "nombre": "SWT506",
+            "codigo": "#bdb76b"
+        },
+        {
+            "id": 8,
+            "nombre": "SWT507",
+            "codigo": "#808000"
+        },
+        {
+            "id": 9,
+            "nombre": "SWT508",
+            "codigo": "#556b2f"
+        },
+        {
+            "id": 10,
+            "nombre": "SWT509",
+            "codigo": "#6b8e23"
+        },
+        {
+            "id": 11,
+            "nombre": "SWT510",
+            "codigo": "#9acd32"
+        },
+        {
+            "id": 12,
+            "nombre": "SWT511",
+            "codigo": "#adff2f"
+        },
+        {
+            "id": 13,
+            "nombre": "SWT512",
+            "codigo": "#7cfc00"
+        },
+        {
+            "id": 14,
+            "nombre": "SWT513",
+            "codigo": "#7fff00"
+        },
+        {
+            "id": 15,
+            "nombre": "SWT514",
+            "codigo": "#32cd32"
+        },
+        {
+            "id": 16,
+            "nombre": "SWT515",
+            "codigo": "#228b22"
+        },
+        {
+            "id": 17,
+            "nombre": "SWT516",
+            "codigo": "#006400"
+        },
+        {
+            "id": 18,
+            "nombre": "SWT517",
+            "codigo": "#556b2f"
+        },
+        {
+            "id": 19,
+            "nombre": "SWT518",
+            "codigo": "#8fbc8f"
+        },
+        {
+            "id": 20,
+            "nombre": "SWT519",
+            "codigo": "#9acd32"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+@import './variables';
+
+.container-title {
+    .text-container {
+        width: 500px;
+        font-size: 50px;
+        height: $height;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    .dynamic-text,
+    .static-text {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dynamic-text {
+        list-style: none;
+        position: absolute;
+        overflow: hidden;
+        height: $height;
+        width: 31%;
+    }
+
+    .item {
+        position: relative;
+        top: 0;
+        font-size: 50px;
+        font-weight: bold;
+        animation: move 7s infinite;
+    }
+
+    @keyframes move {
+        0% {
+            top: 0px;
+        }
+        
+
+        40% {
+            top: -70px;
+        }        
+
+        60% {
+            top: -150px;
+        }
+    }
+}

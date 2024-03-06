@@ -1,0 +1,23 @@
+@import '../../../styles/modules/variables';
+
+.image-container {
+    max-width: 100%;
+    border-radius: 10px;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        border-radius: 10px;
+    }
+}
+
+.rating-star {
+    font-size: 30px;
+    color: rgb(255, 215, 0);
+}
+
+.img-ad {
+    width: 100%;
+    border-radius: 10px;
+}

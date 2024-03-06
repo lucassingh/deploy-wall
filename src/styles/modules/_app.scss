@@ -1,0 +1,57 @@
+@import './variables';
+
+body {
+    user-select: none;
+}
+
+.title {
+    color: $primary-color;
+    font-weight: bold;
+}
+
+.p-button {
+    background-color: $light-gray;
+    border-color: $primary-color;
+    border-radius: 30px;
+
+    a {
+        color: $primary-color;
+        text-decoration: none;
+    }
+}
+
+.p-button:hover {
+    background-color: $primary-color;
+    border-color: $primary-color;
+    
+    a {
+        color: $tertiary-color;
+        text-decoration: none;
+    }
+}
+
+.button-cta {
+    background-color: $primary-color;
+    border-color: $primary-color;
+    border-radius: 30px;
+
+    a {
+        color:  $tertiary-color;
+        text-decoration: none;
+    }
+}
+
+.button-cta:hover {
+    background-color: #a0190d;
+    border-color: #a0190d;
+    
+    a {
+        color: $tertiary-color;
+        text-decoration: none;
+    }
+}
+
+figure {
+    margin-bottom: 0 !important;
+    margin-top: 15px;
+}

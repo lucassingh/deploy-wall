@@ -1,0 +1,147 @@
+// Button.scss
+@import '../../styles/modules/variables';
+
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 7px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+
+    &.primary {
+        background-color: $primary-color;
+        color: $light-gray;
+
+        a {
+            color: $light-gray;
+            text-decoration: none;
+        }
+
+        &:hover {
+            background-color: darken($primary-color, 10%);
+            color: $light-gray;
+        }
+    }
+
+    &.secondary {
+        background-color: $secondary-color;
+        color: $light-gray;
+
+        a {
+            color: $light-gray;
+            text-decoration: none;
+        }
+
+        &:hover {
+            background-color: darken($secondary-color, 10%);
+            color: $light-gray;
+        }
+    }
+
+    &.tertiary {
+        background-color: $tertiary-color;
+        color: $dark-gray;
+
+        a {
+            color: $dark-gray;
+            text-decoration: none;
+        }
+
+        &:hover {
+            background-color: darken($tertiary-color, 10%);
+        }
+    }
+
+    &.outline {
+        background-color: transparent;
+        border: 2px solid $primary-color;
+        color: $primary-color;
+
+        &:hover {
+            background-color: $primary-color;
+            color: $light-gray;
+        }
+    }
+
+    &.outline-primary {
+        background-color: transparent;
+        border: 2px solid $primary-color;
+        color: $primary-color;
+
+        a {
+            color: $primary-color;
+            text-decoration: none;
+        }
+
+        &:hover {
+            background-color: $primary-color;
+            color: $light-gray;
+
+            a {
+                color: $light-gray;
+                text-decoration: none;
+            }
+        }
+    }
+
+    &.outline-secondary {
+        background-color: transparent;
+        border: 2px solid $secondary-color;
+        color: $secondary-color;
+
+        a {
+            color: $secondary-color;
+            text-decoration: none;
+        }
+
+        &:hover {
+            background-color: $secondary-color;
+            color: $light-gray;
+
+            a {
+                color: $light-gray;
+                text-decoration: none;
+            }
+        }
+    }
+
+    &.outline-tertiary {
+        background-color: transparent;
+        border: 2px solid $tertiary-color;
+        color: $dark-gray;
+
+        a {
+            color: $dark-gray;
+            text-decoration: none;
+        }
+        
+
+        &:hover {
+            background-color: $tertiary-color;
+            color: $dark-gray;
+
+            a {
+                color: $dark-gray;
+                text-decoration: none;
+            }
+        }
+    }
+
+    &.large {
+        font-size: 20px;
+    }
+
+    &.medium {
+        font-size: 16px;
+        width: 10rem;
+    }
+
+    &.small {
+        font-size: 14px;
+        width: 7rem;
+        margin-right: 10px;
+    }
+}
